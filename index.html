@@ -3,11 +3,34 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-giJF6kkoqNQ00vy+HMDP7azOuL0xtbfIcaT9wjKHr8RbDVddVHyTfAAsrekwKmP1" crossorigin="anonymous">
   <link rel="stylesheet" href="main.css">
   <title>Pet Adoption</title>
 </head>
 <body>
-  
+  <div class="container">
+    <div id="buttons"></div>
+    <div id="pet-cards" class="d-flex flex-wrap justify-content-around">
+      <div class="card text-center card my-2" style="width: 18rem;">
+        <div class="card-header fw-bold text-secondary">
+         Name
+        </div>
+        <div class="card-body">
+          <div class="card-img-holder">
+            <img class="img-thumbnail p-2" src="http://kittentoob.com/wp-content/uploads/2015/06/funny-cat-with-a-towel.jpg" alt="a cat">
+          </div>
+          <h5 class="card-title pt-2">Color</h5>
+          <p class="card-text">Lorem Ipsum</p>
+        </div>
+        <div class="card-footer text-muted">
+          Cat
+        </div>
+      </div>
+    </div>
+  </div>
+
+
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.0.0-beta1/dist/js/bootstrap.bundle.min.js" integrity="sha384-ygbV9kiqUc6oa4msXn9868pTtWMgiQaeYH7/t7LECLbyPA2x65Kgf80OJFdroafW" crossorigin="anonymous"></script>
   <script src="main.js"></script>
 </body>
 </html>
