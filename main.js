@@ -1,3 +1,5 @@
+console.log('CONNECTED')
+
 const pets = [
     {
       name: "Dusty",
