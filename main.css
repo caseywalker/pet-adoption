@@ -8,19 +8,23 @@ img {
   height: 200px;
 }
 
-#cat-footer {
+.card-header {
+  height: 45px;
+}
+
+.cat-footer {
   background-color: rgba(5, 187, 247, 0.15);
   color: rgba(5, 187, 247, 1.0);
   height: 45px;
 }
 
-#dog-footer {
+.dog-footer {
   background-color:rgba(57, 125, 51, 0.15);
   color:rgba(57, 125, 51, 1.0);
   height: 45px;
 }
 
-#dino-footer {
+.dino-footer {
   background-color:rgba(232, 199, 14, 0.10);
   color: #ffae00;
   height: 45px;
