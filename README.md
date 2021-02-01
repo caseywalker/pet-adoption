@@ -7,7 +7,7 @@ This app was designed to display an image and description of various pets availa
 https://github.com/caseywalker/pet-adoption/blob/main/MockUp1.png
 
 # Deployed link
-
+https://caseywalker-pet-adoption.netlify.app
 # Github Project Board
 https://github.com/caseywalker/pet-adoption/projects/1
 
@@ -21,8 +21,10 @@ Average user should load the website and browse pets that are available for adop
 
 
 # Screenshots of project
+https://github.com/caseywalker/pet-adoption/blob/pet-adoption/pet-adoption.PNG
 
 # List of contributors and link to GH profile
 - Casey Walker https://github.com/caseywalker
 
 # Link to Loom Video 
+https://www.loom.com/share/def7b7a3c4714fc3a7803fc060d7faa1

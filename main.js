@@ -131,7 +131,7 @@ const pets = [
       color: "Blue",
       specialSkill: "Listens attentively to boring stories.",
       type: "dog",
-      imageUrl: "http://dailynewsdig.com/wp-content/uploads/2014/03/Creative-And-Funny-Dog-Stock-Photography-Pictures-2.jpg"
+      imageUrl: "https://lh3.googleusercontent.com/proxy/8E8r4cr2mxWZF-d26SzI_WZmAy7qGToiQhjGhlpQ7U_dlbRI1pRb7SbuSWJ1ipZnGu9z_-N0F6fkE48n79Lebyes4x4HbSx_H9-Ucdv_sRC-mFhxz3NLXB0ljQ"
     },
     {
       name: "Spooky",
