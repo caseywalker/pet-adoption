@@ -50,13 +50,6 @@ const pets = [
       imageUrl: "https://i.pinimg.com/originals/9d/da/3e/9dda3e5fd2b9886fc3d13ee47f52e8a0.jpg"
     },
     {
-      name: "Ginger",
-      color: "Grey",
-      specialSkill: "Comfortable in the outdoors for up to eight hours.",
-      type: "dino",
-      imageUrl: "https://www.popsci.com/resizer/bMm9C-yuxfHrb2RubGevFZVY2U4=/760x506/filters:focal(960x640:961x641)/arc-anglerfish-arc2-prod-bonnier.s3.amazonaws.com/public/CDGDHC66UGCVYCTPKSWMWS3YII.jpg"
-    },
-    {
       name: "Sassy",
       color: "Poop-Colored",
       specialSkill: "Adept at talking self and others out of fights.",
@@ -71,25 +64,11 @@ const pets = [
       imageUrl: "https://i.pinimg.com/originals/04/54/92/0454926d39eeb420f4f01948e94e9e41.jpg"
     },
     {
-      name: "Coco",
-      color: "Orange",
-      specialSkill: "Can be around food without staring creepily at it.",
-      type: "dino",
-      imageUrl: "http://www.cantref.com/userfiles/events/walking%20dino.jpg?w=600"
-    },
-    {
       name: "Buster",
       color: "Green",
       specialSkill: "Does not use excessive acronyms.",
       type: "dog",
       imageUrl: "https://i.pinimg.com/originals/1f/30/8c/1f308c9c108a384b91b39430cc7312e9.jpg"
-    },
-    {
-      name: "Chester",
-      color: "Red",
-      specialSkill: "Expertly quotes and recognizes dialogue from early seasons of The Simpsons.",
-      type: "dog",
-      imageUrl: "http://1kjkdg1axrkd2g03cnboj761.wpengine.netdna-cdn.com/wp-content/uploads/2017/12/braydon-anderson-105552-e1512684107659.jpg"
     },
     {
       name: "Samantha",
@@ -113,25 +92,11 @@ const pets = [
       imageUrl: "https://i.pinimg.com/originals/8c/86/54/8c8654a568b7143a0ab6464361497480.jpg"
     },
     {
-      name: "Muffin",
-      color: "Yellow",
-      specialSkill: "Does not freak out if you haven’t seen his favorite movie (The Big Lebowski).",
-      type: "cat",
-      imageUrl: "http://www.funnycatsite.com/pictures/Close_Up_Yawn.jpg"
-    },
-    {
       name: "Salem",
       color: "Poop-Colored",
       specialSkill: "Proficient in air guitar",
       type: "dino",
       imageUrl: "https://cdn.the-scientist.com/assets/articleNo/36893/aImg/15927/humongous-herbivorous-dinosaur-l.jpg"
-    },
-    {
-      name: "Callie",
-      color: "Blue",
-      specialSkill: "Listens attentively to boring stories.",
-      type: "dog",
-      imageUrl: "https://lh3.googleusercontent.com/proxy/8E8r4cr2mxWZF-d26SzI_WZmAy7qGToiQhjGhlpQ7U_dlbRI1pRb7SbuSWJ1ipZnGu9z_-N0F6fkE48n79Lebyes4x4HbSx_H9-Ucdv_sRC-mFhxz3NLXB0ljQ"
     },
     {
       name: "Spooky",
@@ -162,13 +127,6 @@ const pets = [
       imageUrl: "https://www.dog-breeds-expert.com/images/olde_english_bulldogge_laredo-txDOTamericanlistedDotcom.jpg"
     },
     {
-      name: "George",
-      color: "Brown",
-      specialSkill: "Participates in karaoke but does not force others to go out to karaoke.",
-      type: "dog",
-      imageUrl: "http://www.dogbreedplus.com/dog_breeds/images/basset-hound-4.jpg"
-    },
-    {
       name: "Salem",
       color: "Red",
       specialSkill: "Knows the words to 4 rap songs.",
@@ -195,13 +153,6 @@ const pets = [
       specialSkill: "Dances when he has to.",
       type: "cat",
       imageUrl: "https://tailandfur.com/wp-content/uploads/2016/03/40-Scary-and-Funny-Cat-Pictures-8.jpg"
-    },
-    {
-      name: "Oscar",
-      color: "Green",
-      specialSkill: "Gives hugs with appropriate pressure and for the right length of time.",
-      type: "cat",
-      imageUrl: "http://img.izismile.com/img/img2/20090219/cats_02.jpg"
     },
     {
       name: "Lucy",

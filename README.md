@@ -1,13 +1,13 @@
 # Pet Adoption 
 
 # Overview
-This app was designed to display an image and description of various pets available for adoption. This will allow the user to see the picture of available pets, along with their name and a short description. 
+This app was designed to display an image and description of various pets available for adoption. This will allow the user to see the picture of available pets, along with their name and a short description. The list of available pets can be easily updated with a few simple steps.  
 
+# Deployed App
+[Pet Adoption](https://caseywalker-pet-adoption.netlify.app)
 # Link to wireframe
 https://github.com/caseywalker/pet-adoption/blob/main/MockUp1.png
 
-# Deployed link
-https://caseywalker-pet-adoption.netlify.app
 # Github Project Board
 https://github.com/caseywalker/pet-adoption/projects/1
 
@@ -20,11 +20,9 @@ Average user should load the website and browse pets that are available for adop
 - Each pet card has a footer that shows the pet type, and is styled with different colors based on type. The colors match the associated filter button color at the top of the app. 
 
 
-# Screenshots of project
-https://github.com/caseywalker/pet-adoption/blob/pet-adoption/pet-adoption.PNG
+# Media
+[Loom Video](https://www.loom.com/share/def7b7a3c4714fc3a7803fc060d7faa1)
+![Pets](https://github.com/caseywalker/pet-adoption/blob/pet-adoption/pet-adoption.PNG)
 
-# List of contributors and link to GH profile
-- Casey Walker https://github.com/caseywalker
-
-# Link to Loom Video 
-https://www.loom.com/share/def7b7a3c4714fc3a7803fc060d7faa1
+# List of contributors
+- [Casey Walker](https://github.com/caseywalker)
