@@ -99,13 +99,6 @@ const pets = [
       imageUrl: "https://cdn.the-scientist.com/assets/articleNo/36893/aImg/15927/humongous-herbivorous-dinosaur-l.jpg"
     },
     {
-      name: "Spooky",
-      color: "Black",
-      specialSkill: "Uses litter box at appropriate hours.",
-      type: "cat",
-      imageUrl: "http://www.funnycatsite.com/pictures/Lazy_White_Cat.jpg"
-    },
-    {
       name: "Miss kitty",
       color: "Red",
       specialSkill: "Owns a Nintendo Power Glove.",
